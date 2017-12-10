@@ -1,0 +1,38 @@
+#Flexbox Froggy
+<ol><li><ul><li>justify-content:flex-end;</li></ul></li></ol>
+<ol><li><ul><li>justify-content:center;</li></ul></li></ol>
+<ol><li><ul><li>justify-content:space-around;</li></ul></li></ol>
+<ol><li><ul><li>justify-content:space-between;</li></ul></li></ol>
+<ol><li><ul><li>align-items:flex-end;</li></ul></li></ol>
+<ol><li><ul><li>justify-content:center;</li></ul>
+  <ul><li>align-items:center;</li></ul></li></ol>
+<ol><li><ul><li>justify-content:space-around;</li></ul>
+  <ul><li>align-items:flex-end;</li></ul></li></ol>
+<ol><li><ul><li>flex-direction:row-reverse;</li></ul></li></ol>
+<ol><li><ul><li>flex-direction:column;</li></ul></li></ol>
+<ol><li><ul><li>flex-direction:row-reverse;</li></ul>
+   <ul><li>justify-content:flex-end;</li></ul></li></ol>
+<ol><li><ul><li>flex-direction:column;</li></ul>
+   <ul><li>justify-content:flex-end;</li></ul></li></ol>
+<ol><li><ul><li>flex-direction:column-reverse;</li></ul>
+   <ul><li>justify-content:space-between;</li></ul></li></ol>
+<ol><li><ul><li>flex-direction:row-reverse;</li></ul>
+   <ul><li>justify-content:center;</li></ul>
+   <ul><li>align-items:flex-end;</li></ul></li></ol>
+<ol><li><ul><li>order:1;</li></ul></li></ol>
+<ol><li><ul><li>order:-1;</li></ul></li></ol>
+<ol><li><ul><li>align-self:flex-end;</li></ul></li></ol>
+<ol><li><ul><li>align-self:flex-end;</li></ul>
+   <ul><li>order:1;</li></ul></li></ol>
+<ol><li><ul><li>flex-wrap:wrap;</li></ul></li></ol>
+<ol><li><ul><li>flex-direction:column;</li></ul>
+   flex-wrap:wrap;</li></ul></li></ol>
+<ol><li><ul><li>flex-flow:column wrap;</li></ul></li></ol>
+<ol><li><ul><li>align-content:flex-start;</li></ul></li></ol>
+<ol><li><ul><li>align-content:flex-end;</li></ul></li></ol>
+<ol><li><ul><li>flex-direction:column-reverse;</li></ul>
+   </li><ul>align-content:center;</li></ul></li></ol>
+<ol><li><ul><li>flex-direction:column-reverse;</li></ul>
+   <ul><li>flex-wrap:wrap-reverse;</li></ul>
+   <ul><li>justify-content:center;</li></ul>
+   <ul><li>align-content:space-between;</li></ul></li></ol>
